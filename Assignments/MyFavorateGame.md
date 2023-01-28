@@ -7,4 +7,4 @@ https://elderscrolls.bethesda.net/en/skyrim
 
 The game was made with Creation Engine created by Bethesda Game Studios
 
-/Users/zochu/Class/MTEC/MTEC-340 Unity/MTEC-340-Assignments/Assignments/Elder-Scrolls-V-Skyrim-007.jpg.webp
+/Users/zochu/Class/MTEC/MTEC-340 Unity/MTEC-340-Assignments/Assignments/Elder-Scrolls-V-Skyrim-007.jpg
